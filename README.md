@@ -1,0 +1,2 @@
+# zabbix
+shell脚本
